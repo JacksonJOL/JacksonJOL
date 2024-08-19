@@ -8,7 +8,7 @@
 
 
 
-## Estou cursando ADS, no momento estudando  Front-end
+## Estou cursando ADS, Atualmente estou estagiando na área utilizando a linguagem C# para aplicações Web.
 ### Tecnologias que estou estudando e focado no momento: 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
